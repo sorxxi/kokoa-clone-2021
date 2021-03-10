@@ -1,0 +1,15 @@
+ul {
+  list-style: none;
+}
+
+.setiints-setting {
+  padding: 20px 0;
+  border-bottom: var(--main-border);
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+}
+.setiints-setting i {
+  margin-right: 12px;
+  font-size: 22px;
+}
